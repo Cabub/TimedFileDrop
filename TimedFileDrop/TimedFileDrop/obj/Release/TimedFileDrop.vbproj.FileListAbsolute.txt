@@ -1,0 +1,10 @@
+C:\CalebE\Projects\TimedFileDrop\TimedFileDrop\bin\Release\TimedFileDrop.exe.config
+C:\CalebE\Projects\TimedFileDrop\TimedFileDrop\bin\Release\TimedFileDrop.exe
+C:\CalebE\Projects\TimedFileDrop\TimedFileDrop\bin\Release\TimedFileDrop.pdb
+C:\CalebE\Projects\TimedFileDrop\TimedFileDrop\bin\Release\TimedFileDrop.xml
+C:\CalebE\Projects\TimedFileDrop\TimedFileDrop\obj\Release\TimedFileDrop.Resources.resources
+C:\CalebE\Projects\TimedFileDrop\TimedFileDrop\obj\Release\TimedFileDrop.vbproj.GenerateResource.Cache
+C:\CalebE\Projects\TimedFileDrop\TimedFileDrop\obj\Release\TimedFileDrop.exe
+C:\CalebE\Projects\TimedFileDrop\TimedFileDrop\obj\Release\TimedFileDrop.xml
+C:\CalebE\Projects\TimedFileDrop\TimedFileDrop\obj\Release\TimedFileDrop.pdb
+C:\CalebE\Projects\TimedFileDrop\TimedFileDrop\obj\Release\TimedFileDrop.vbprojResolveAssemblyReference.cache

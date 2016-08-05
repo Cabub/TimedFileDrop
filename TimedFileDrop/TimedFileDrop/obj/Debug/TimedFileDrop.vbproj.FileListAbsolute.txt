@@ -1,0 +1,9 @@
+C:\CalebE\Projects\TimedFileDrop\TimedFileDrop\bin\Debug\TimedFileDrop.exe.config
+C:\CalebE\Projects\TimedFileDrop\TimedFileDrop\bin\Debug\TimedFileDrop.exe
+C:\CalebE\Projects\TimedFileDrop\TimedFileDrop\bin\Debug\TimedFileDrop.pdb
+C:\CalebE\Projects\TimedFileDrop\TimedFileDrop\bin\Debug\TimedFileDrop.xml
+C:\CalebE\Projects\TimedFileDrop\TimedFileDrop\obj\Debug\TimedFileDrop.Resources.resources
+C:\CalebE\Projects\TimedFileDrop\TimedFileDrop\obj\Debug\TimedFileDrop.vbproj.GenerateResource.Cache
+C:\CalebE\Projects\TimedFileDrop\TimedFileDrop\obj\Debug\TimedFileDrop.exe
+C:\CalebE\Projects\TimedFileDrop\TimedFileDrop\obj\Debug\TimedFileDrop.xml
+C:\CalebE\Projects\TimedFileDrop\TimedFileDrop\obj\Debug\TimedFileDrop.pdb
